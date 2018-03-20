@@ -1,0 +1,10 @@
+kernel/crypto/crypto.ko
+kernel/crypto/crypto_algapi.ko
+kernel/crypto/crypto_hash.ko
+kernel/crypto/pcompress.ko
+kernel/crypto/md5.ko
+kernel/crypto/aes_generic.ko
+kernel/crypto/arc4.ko
+kernel/crypto/zlib.ko
+kernel/crypto/crc32c.ko
+kernel/crypto/lzo.ko
